@@ -1,3 +1,5 @@
 import os
-import sys
-import master 
+import tensorflow
+
+if __main__ == 'main':
+    pass
